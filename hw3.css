@@ -1,0 +1,40 @@
+ /* 
+Name: Lien Hua
+File: hw3.css
+Date created: 09-25-2025
+Version: 1.0
+Description: Style sheet for MIS 3371 HW3
+*/
+
+body 
+{
+   background-color:lightgoldenrodyellow;
+   font-family: "Source Sans Pro", sans-serif;
+} 
+#form
+{
+  background-color: rgb(187, 234, 187);
+}
+h1 
+{
+    text-align: center;
+    font-family: "Fantasy", Copperplate;
+    font-size: 70px;
+    color: rgb(21, 79, 33);
+}
+input:focus 
+{
+  background-color: rgba(90, 90, 86, 0.248);
+}
+#ig 
+a:link {
+  color: rgb(34, 0, 255);
+}
+a:visited {
+  color: rgb(128, 21, 0);}
+#fb
+a:link {
+  color: rgb(34, 0, 255);
+}
+a:visited {
+  color: rgb(128, 21, 0);}
