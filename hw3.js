@@ -1,4 +1,10 @@
- // Get user's browser date
+/*Name: Lien Hua
+File: hw3.js
+Date created: 09-25-2025
+Version: 1.0
+Description: Style sheet for MIS 3371 HW3*/
+
+// Get user's browser date
     const d = new Date();
     let date = d.toLocaleDateString();
     document.getElementById("today").innerHTML = date;
